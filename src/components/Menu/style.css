@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.menu ul{
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
